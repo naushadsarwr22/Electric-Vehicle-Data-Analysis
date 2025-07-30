@@ -46,27 +46,27 @@ Kaggle ….
 2.	Total Vehicles by State:
 1.	Visualization: Map Chart 
 2.	Description: This chart will showcase the geographical distribution of electric vehicles across different states, allowing for the identification of regions with higher adoption rates.
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Insurance%20Count.png" width="400" height="400">
+<img src="https://github.com/naushadsarwr22/Electric-Vehicle-Data-Analysis/blob/main/total%20vehicle%20by%20state.png" width="400" height="400">
 
 
 3.	Top 15 Total Vehicles by Make:
 1.	Visualization: Bar Chart 
 2.	Description: Highlight the top 10 electric vehicle manufacturers based on the total number of vehicles, providing insights into the market dominance of specific brands.
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Patient%20Synopsis.png" width="400" height="400">
+<img src="https://github.com/naushadsarwr22/Electric-Vehicle-Data-Analysis/blob/main/top%2015%20total%20vehicle%20by%20maker.png" width="400" height="400">
 
 4.	Total Vehicles by CAFV Eligibility:
 
 1.	Visualization: Pie Chart or Donut Chart
 2.	Description: Illustrate the proportion of electric vehicles that are eligible for Clean Alternative Fuel Vehicle (CAFV) incentives, aiding in understanding the impact of incentives on vehicle adoption.
 
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Diagnosis%20VS%20Insurance.png" width="400" height="400">
+<img src="https://github.com/naushadsarwr22/Electric-Vehicle-Data-Analysis/blob/main/total%20vehicles%20by%20CAFV%20eligibility.png" width="400" height="400">
 
 5.	Total Vehicles by Model:
 1.	Visualization: Tree map
 2.	Description: Highlight the top 10 electric vehicle models based on the total number of vehicles, offering insights into consumer preferences and popular models in the market.
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Diagnosis%20VS%20Insurance.png" width="400" height="400">
+<img src="https://github.com/naushadsarwr22/Electric-Vehicle-Data-Analysis/blob/main/total%20vehicles%20by%20model.png" width="400" height="400">
 
 
 
 ## Dashboard
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Appolo%20Health%20Care%20Center_PowerBi.png" width="900" height="600">
+<img src="https://github.com/naushadsarwr22/Electric-Vehicle-Data-Analysis/blob/main/Electric%20Vehicle%20Dashboard_Tableau.png" width="900" height="600">
