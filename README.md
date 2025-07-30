@@ -2,7 +2,7 @@
 
 Electric Vehicle Data Analysis is a dynamic and interactive data visualization tool built to explore efficiency and data report of Electric Car. It includes Battery Electric Vehicles (BEV), Plug-in Hybrid Electric Vehicles (PHEVs), and Clean Alternative Fuel Vehicle (CAFV) to compare in performance, reliability and selling trends. This tool will provide you with total vehicle sales, percentage sales of BEV and PHEV, yearly vehicle model sale, sale by state, top selling vehicles including KPIs like EV type and best Model in different states.
 
--<a href="(https://github.com/naushadsarwr22/Electric-Vehicle-Data-Analysis/blob/main/Electric%20Vehicle%20Dashboard_Tableau.png>Dashboard Image</a>
+-<a href="https://github.com/naushadsarwr22/Electric-Vehicle-Data-Analysis/blob/main/Electric%20Vehicle%20Dashboard_Tableau.png">Dashboard Image</a>
 
 ## Tech Stack
 The dashboard was built using the following tools and technologies:
