@@ -41,7 +41,7 @@ Kaggle ….
 1.	Total Vehicles by Model Year (From 2010 Onwards):
 1.	Visualization: Line/ Area Chart
 2.	Description: This chart will illustrate the distribution of electric vehicles over the years, starting from 2010, providing insights into the growth pattern and adoption trends.
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Types%20of%20Diagnosis.png" width="400" height="400">
+<img src="https://github.com/naushadsarwr22/Electric-Vehicle-Data-Analysis/blob/main/total%20vehicle%20by%20model%20year.png" width="400" height="400">
 
 2.	Total Vehicles by State:
 1.	Visualization: Map Chart 
