@@ -22,7 +22,7 @@ The dashboard was built using the following tools and technologies:
 Kaggle ….
 
 ## Walkthrough of KPIs and Key Visuals
-##* KPIs
+## * KPIs
 1.	Total Vehicles:
 •	Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth.
 
