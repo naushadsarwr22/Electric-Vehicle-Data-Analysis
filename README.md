@@ -24,21 +24,18 @@ Kaggle ….
 * KPIs
 1.	Total Vehicles:
 •	Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth.
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/KPIs.png" width="400" height="400">
 
 2.	Total BEV Vehicles and % of Total BEV Vehicles:
 •	Identify and analyze the total number of Battery Electric Vehicles (BEVs) in the dataset.
 •	Calculate the percentage of BEVs relative to the total number of electric vehicles, providing insights into the dominance of fully electric models.
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/Slicers.png" width="400" height="400">
 
 3.	Total PHEV Vehicles and % of Total PHEV Vehicles:
 •	Identify and analyze the total number of Plug-in Hybrid Electric Vehicles (PHEVs) in the dataset.
 •	Calculate the percentage of PHEVs relative to the total number of electric vehicles, offering insights into the market share of plug-in hybrid models.
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/applolo%20health%20bed%20occupency.png" width="400" height="400">
 
 4.	Average Electric Range:
 •	Determine the average electric range of the electric vehicles in the dataset to gauge the technological advancements and efficiency of the EVs.
-<img src="https://github.com/naushadsarwr22/Electric-Vehicle-Data-Analysis/blob/main/top%20KPIs.png" width="400" height="400">
+<img src="https://github.com/naushadsarwr22/Electric-Vehicle-Data-Analysis/blob/main/top%20KPIs.png" width="600" height="500">
 
 * KPI Features
 1.	Total Vehicles by Model Year (From 2010 Onwards):
