@@ -38,7 +38,7 @@ Kaggle ….
 
 4.	Average Electric Range:
 •	Determine the average electric range of the electric vehicles in the dataset to gauge the technological advancements and efficiency of the EVs.
-<img src="https://github.com/naushadsarwr22/Appolo-Health-Care/blob/main/applolo%20health%20feedback%20volume%20for%20doctors.png" width="400" height="400">
+<img src="https://github.com/naushadsarwr22/Electric-Vehicle-Data-Analysis/blob/main/top%20KPIs.png" width="400" height="400">
 
 * KPI Features
 1.	Total Vehicles by Model Year (From 2010 Onwards):
