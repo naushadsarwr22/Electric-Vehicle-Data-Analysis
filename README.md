@@ -7,13 +7,13 @@ Electric Vehicle Data Analysis is a dynamic and interactive data visualization t
 ## Tech Stack
 The dashboard was built using the following tools and technologies:
 
-• 📊 Tabl Desktop – Main data visualization platform used for report creation.
+• 📊 Tableau Desktop – Main data visualization platform used for report creation.
 
 • 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
 
-• 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
+• 🧠 VizQL (Data Analysis Expressions) – Used for building visualizations and performing calculations directly within the visual interface.
 
-• 📝 Data Modeling – Relationships established among tables to enable cross-filtering and aggregation.
+• 📝 Data Modeling – organize and structure data from one or more sources for analysis and visualization
 
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
